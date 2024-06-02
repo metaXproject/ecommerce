@@ -1,17 +1,122 @@
 [
     {
-        "name": "T-shirt",
+        "name": "tshirt 1",
         "price": 19.99,
-        "image": "https://via.placeholder.com/200"
+        "image": "images/tshirt1.webp"
     },
     {
-        "name": "Jeans",
+        "name": "tshirt 2",
         "price": 49.99,
-        "image": "https://via.placeholder.com/200"
+        "image": "images/tshirt2.jpg"
     },
     {
-        "name": "Jacket",
+        "name": "tshirt 3",
         "price": 99.99,
-        "image": "https://via.placeholder.com/200"
+        "image": "images/tshirt3.webp"
+    },
+    {
+        "name": "tshirt 4",
+        "price": 19.99,
+        "image": "images/tshirt4.webp"
+    },
+    {
+        "name": "tshirt 5",
+        "price": 49.99,
+        "image": "images/tshirt5.jpg"
+    },
+    {
+        "name": "tshirt 6",
+        "price": 99.99,
+        "image": "images/tshirt6.webp"
+    },
+    {
+        "name": "tshirt 7",
+        "price": 19.99,
+        "image": "images/tshirt7.webp"
+    },
+    {
+        "name": "tshirt 8",
+        "price": 49.99,
+        "image": "images/tshirt8.jpg"
+    },
+    {
+        "name": "tshirt 9",
+        "price": 99.99,
+        "image": "images/tshirt9.webp"
+    },
+    {
+        "name": "tshirt 10",
+        "price": 19.99,
+        "image": "images/tshirt10.webp"
+    },
+    {
+        "name": "tshirt 11",
+        "price": 49.99,
+        "image": "images/tshirt11.jpg"
+    },
+    {
+        "name": "tshirt 12",
+        "price": 99.99,
+        "image": "images/tshirt12.webp"
+    },
+    {
+        "name": "tshirt 13",
+        "price": 19.99,
+        "image": "images/tshirt13.webp"
+    },
+    {
+        "name": "tshirt 14",
+        "price": 49.99,
+        "image": "images/tshirt14.jpg"
+    },
+    {
+        "name": "tshirt 15",
+        "price": 99.99,
+        "image": "images/tshirt15.webp"
+    },
+    {
+        "name": "tshirt 16",
+        "price": 19.99,
+        "image": "images/tshirt16.webp"
+    },
+    {
+        "name": "tshirt 17",
+        "price": 49.99,
+        "image": "images/tshirt17.jpg"
+    },
+    {
+        "name": "tshirt 18",
+        "price": 99.99,
+        "image": "images/tshirt18.webp"
+    },
+    {
+        "name": "tshirt 19",
+        "price": 19.99,
+        "image": "images/tshirt19.webp"
+    },
+    {
+        "name": "tshirt 20",
+        "price": 49.99,
+        "image": "images/tshirt20.jpg"
+    },
+    {
+        "name": "tshirt 21",
+        "price": 99.99,
+        "image": "images/tshirt21.webp"
+    },
+    {
+        "name": "tshirt 22",
+        "price": 19.99,
+        "image": "images/tshirt22.webp"
+    },
+    {
+        "name": "tshirt 23",
+        "price": 49.99,
+        "image": "images/tshirt23.jpg"
+    },
+    {
+        "name": "tshirt 24",
+        "price": 99.99,
+        "image": "images/tshirt24.webp"
     }
 ]

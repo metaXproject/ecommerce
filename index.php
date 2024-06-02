@@ -57,7 +57,7 @@ if (!isset($_SESSION['username'])) {
             <h2>Products</h2>
             <div class="product-grid">
                 <?php
-                    $products = getProducts();
+                    $products = getProducts(); // Fetch the products, should return an array of at least 24 products
                     foreach ($products as $product) {
                         echo '<div class="product">';
                         echo '<img src="' . htmlspecialchars($product['image']) . '" alt="' . htmlspecialchars($product['name']) . '">';
@@ -89,18 +89,17 @@ if (!isset($_SESSION['username'])) {
                     <li>delivery information</li>
                     <li>return</li>
                     <li>product recall</li>
-                    <li>coustmer care</li>
-                    
+                    <li>customer care</li>
                 </ul>
             </div>
             <div class="store-location">
                 <h3>our location</h3>
                 <ul>
                     <li>Jhansi</li>
-                    <li>kanpur</li>
-                    <li>delhi</li>
-                    <li>banglore</li>
-                    <li>gurgaon</li>
+                    <li>Kanpur</li>
+                    <li>Delhi</li>
+                    <li>Bangalore</li>
+                    <li>Gurgaon</li>
                 </ul>
             </div>
             <div class="legal">
@@ -110,7 +109,6 @@ if (!isset($_SESSION['username'])) {
                     <li>terms & conditions</li>
                 </ul>
             </div>
-
         </div>
     </footer>
 
