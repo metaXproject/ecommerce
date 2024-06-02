@@ -32,18 +32,39 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             align-items: center;
             height: 100vh;
             margin: 0;
+            font-family: 'Arial', sans-serif;
+            position: relative;
+            z-index: 1;
+        }
+
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('images/background.jpg'); /* Add your background image here */
+            background-size: cover;
+            background-position: center;
+            opacity: 0.5; /* Adjust the opacity value as needed */
+            z-index: -1; /* Ensure the background is behind other elements */
         }
 
         .register-container {
-            width: 300px;
+            width: 100%;
+            max-width: 400px;
             padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         .register-container h2 {
             text-align: center;
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #333;
         }
 
         .register-container form {
@@ -52,19 +73,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         .register-container input {
-            margin-bottom: 10px;
-            padding: 10px;
+            margin-bottom: 15px;
+            padding: 12px;
             border-radius: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid #ddd;
+            font-size: 16px;
         }
 
         .register-container button {
-            padding: 10px;
+            padding: 12px;
             border: none;
             border-radius: 5px;
             background-color: #007bff;
             color: #fff;
+            font-size: 16px;
             cursor: pointer;
+            transition: background-color 0.3s ease;
         }
 
         .register-container button:hover {

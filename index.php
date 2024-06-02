@@ -74,7 +74,7 @@ if (!isset($_SESSION['username'])) {
                 echo '</div>';
                 echo '<div class="product-details">';
                 echo '<h3>' . htmlspecialchars($product['name']) . '</h3>';
-                echo '<p>Price: $' . htmlspecialchars($product['price']) . '</p>';
+                echo '<p>Price: ₹' . htmlspecialchars($product['price']) . '</p>';
                 echo '<button onclick="addToCart(\'' . htmlspecialchars($product['name']) . '\', ' . htmlspecialchars($product['price']) . ')">Add to Cart</button>';
                 echo '</div>';
                 echo '</div>';
