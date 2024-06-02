@@ -1,0 +1,17 @@
+[
+    {
+        "name": "T-shirt",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/200"
+    },
+    {
+        "name": "Jeans",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/200"
+    },
+    {
+        "name": "Jacket",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/200"
+    }
+]
