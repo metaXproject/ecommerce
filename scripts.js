@@ -16,7 +16,7 @@ function loadCart() {
 
     cart.forEach((item, index) => {
         const li = document.createElement('li');
-        li.textContent = `${item.name} - $${item.price}`;
+        li.textContent = `${item.name} - ₹${item.price}`;
         const removeButton = document.createElement('button');
         removeButton.textContent = 'Remove';
         removeButton.onclick = () => {
@@ -37,7 +37,7 @@ function removeFromCart(index) {
 }
 
 function checkout() {
-    alert('Proceeding to checkout with total: $' + total.toFixed(2));
+    alert('Proceeding to checkout with total: ₹' + total.toFixed(2));
     // Add further checkout process here
 }
 

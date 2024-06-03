@@ -40,54 +40,13 @@ if (!isset($_SESSION['username'])) {
     </header>
 
     <main>
-        <section class="cart" id="cart">
+    <section class="cart" id="cart">
             <h2>Cart</h2>
             <ul id="cartItems"></ul>
-            <p>Total: $<span id="total">0</span></p>
-            <button onclick="checkout()">Checkout</button>
+            <p class="total">Total: ₹<span id="total">0</span></p>
+            <button class="checkout-btn" onclick="checkout()">Checkout</button>
         </section>
     </main>
-
-    <footer>
-        <div class="social-share">
-            <ul>
-                <li><i class="fab fa-facebook"></i></li>
-                <li><i class="fab fa-instagram"></i></li>
-                <li><i class="fab fa-twitter"></i></li>
-                <li><i class="fab fa-linkedin-in"></i></li>
-                <li><i class="fab fa-github"></i></li>
-            </ul>
-        </div>
-        <div class="general-info">
-            <div class="help">
-                <h3>Help</h3>
-                <ul>
-                    <li>frequently asked questions</li>
-                    <li>delivery information</li>
-                    <li>return</li>
-                    <li>product recall</li>
-                    <li>customer care</li>
-                </ul>
-            </div>
-            <div class="store-location">
-                <h3>our location</h3>
-                <ul>
-                    <li>Jhansi</li>
-                    <li>Kanpur</li>
-                    <li>Delhi</li>
-                    <li>Bangalore</li>
-                    <li>Gurgaon</li>
-                </ul>
-            </div>
-            <div class="legal">
-                <h3>privacy & legal </h3>
-                <ul>
-                    <li>cookies & privacy policy</li>
-                    <li>terms & conditions</li>
-                </ul>
-            </div>
-        </div>
-    </footer>
 
     <script src="scripts.js"></script>
 </body>
