@@ -250,6 +250,7 @@ footer li:hover {
     list-style: none;
     text-transform: capitalize;
     font-size: 1rem;
+    padding: inherit;
 }
 
 .general-info h3 {

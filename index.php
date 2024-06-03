@@ -27,7 +27,7 @@ if (!isset($_SESSION['username'])) {
                 <ul>
                     <div class="logo">
                         <h1>STR2</h1>
-                        <p>clothing</p>
+                        <p>CLOTHING</p>
                     </div>
                     <li>
                         <form method="GET" action="index.php" class="search-bar">

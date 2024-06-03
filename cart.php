@@ -21,8 +21,8 @@ if (!isset($_SESSION['username'])) {
     <header>
         <div class="container">
             <div class="logo">
-                <h1>PORTO</h1>
-                <p>eCommerce</p>
+                <h1>STR2</h1>
+                <p>CLOTHING</p>
             </div>
             <nav>
                 <ul>
