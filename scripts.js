@@ -38,7 +38,7 @@ function removeFromCart(index) {
 
 function checkout() {
     alert('Proceeding to checkout with total: ₹' + total.toFixed(2));
-    // Add further checkout process here
+    window.location.href = 'payment.php';
 }
 
 document.addEventListener('DOMContentLoaded', loadCart);

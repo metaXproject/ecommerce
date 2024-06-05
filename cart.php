@@ -22,7 +22,7 @@ if (!isset($_SESSION['username'])) {
         <div class="container">
             <div class="logo">
                 <h1>STR2</h1>
-                <p>CLOTHING</p>
+                <p>clothing</p>
             </div>
             <nav>
                 <ul>
@@ -40,7 +40,7 @@ if (!isset($_SESSION['username'])) {
     </header>
 
     <main>
-    <section class="cart" id="cart">
+        <section class="cart" id="cart">
             <h2>Cart</h2>
             <ul id="cartItems"></ul>
             <p class="total">Total: ₹<span id="total">0</span></p>
