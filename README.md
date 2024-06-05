@@ -1,6 +1,8 @@
 # eCommerce Website for Clothing
 
-a modern eCommerce website developed by three students from university of bundelkhand, jhansi
+A modern eCommerce website developed by three students from University of Bundelkhand, Jhansi.
+
+![Website Screenshot](https://github.com/metaXproject/ecommerce/blob/main/images/Screenshot%20(23).png)
 
 ## Features
 
@@ -74,11 +76,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or issues, please contact [shantanu yadav](mailto:shantanuyadav@protonmail.ch).
+For any inquiries or issues, please contact [Shantanu Yadav](mailto:shantanuyadav@protonmail.ch).
 
 ## Contributors
 
 Shantanu Yadav [mail](mailto:shantanuyadav@protonmail.ch)<br>
 Rishabh Singh [mail](mailto:ayushsingh91200@gmail.com)<br>
 Tanishq Seth [mail](mailto:tanishqseth772@gmail.com)
-
