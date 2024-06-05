@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any inquiries or issues, please contact [shantanu yadav](mailto:shantanuyadav@protonmail.ch).
 
-## contributors
+## Contributors
 
 Shantanu Yadav [mail](mailto:shantanuyadav@protonmail.ch)<br>
 Rishabh Singh [mail](mailto:ayushsingh91200@gmail.com)<br>
