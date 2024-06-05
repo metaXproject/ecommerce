@@ -78,7 +78,7 @@ For any inquiries or issues, please contact [shantanu yadav](mailto:shantanuyada
 
 ## contributors
 
-Shantanu Yadav [](mailto:shantanuyadav@protonmail.ch)
-Rishabh Singh [](mailto:ayushsingh91200@gmail.com)
-Tanishq Seth [](mailto:tanishqseth772@gmail.com)
+-Shantanu Yadav [mail](mailto:shantanuyadav@protonmail.ch)
+-Rishabh Singh [mail](mailto:ayushsingh91200@gmail.com)
+-Tanishq Seth [mail](mailto:tanishqseth772@gmail.com)
 
